@@ -1,7 +1,7 @@
 <div>
     <a href=""></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniolisboa&show_icons=true&theme=gruvbox">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolisboa&layout=compact&theme=gruvbox">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=antoniolisboa&show_icons=true&theme=gruvbox">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antoniolisboa&layout=compact&theme=gruvbox">
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Antonio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
