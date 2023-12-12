@@ -9,7 +9,7 @@
     <img align="center" alt="Antonio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Antonio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <img align="center" alt="Antonio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Antonio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/c-original.svg">
+    <img align="center" alt="Antonio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/C-original.svg">
     <!-- <img align="right" height="180em" src="https://i.picasion.com/pic92/3bc6ee91a95a3010bafef4bc3637f901.gif"> -->
 </div>
 
